@@ -1,5 +1,8 @@
 # E2 FileViewer – One File, Two Worlds: Gallery & File Explorer
 
+![Demo](screenshots/demo.gif)
+
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **One single PHP file – and your FTP folder becomes a stylish, responsive gallery or a classic file explorer.**  
